@@ -9,6 +9,7 @@
 -arg -w -arg -deprecated-ssr-search
 -arg -w -arg -ambiguous-paths
 
+theories/relalg.v
 theories/wftype.v
 theories/monad.v
 theories/mrel.v
